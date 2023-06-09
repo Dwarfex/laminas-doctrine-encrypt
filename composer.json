@@ -24,7 +24,7 @@
     "ext-sodium": "*",
     "doctrine/annotations": "^1.6",
     "doctrine/orm": "^2.6",
-    "doctrine/doctrine-module": "^4.1.1 || ^5.1",
+    "doctrine/doctrine-module": "^6.0.2",
     "paragonie/halite": "^4.4",
     "paragonie/hidden-string": "^1.0",
     "laminas/laminas-modulemanager": "^2.8",
